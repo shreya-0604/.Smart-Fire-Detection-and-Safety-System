@@ -44,7 +44,7 @@ The Smart Fire Detection and Safety System is an Arduino-based solution designed
 
 ## 📷 Project Output
 
-![Simulation](simulation.png)
+![Simulation](Simulation.png)
 
 ---
 
